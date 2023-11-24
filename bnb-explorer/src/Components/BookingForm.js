@@ -126,7 +126,7 @@ function resetForm(){
           />
         </label>
         <br />
-        <button type="submit">Submit form</button>
+        <button type="submit">Submit Form</button>
       </form>
     </>
   );
