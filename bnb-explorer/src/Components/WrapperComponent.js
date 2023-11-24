@@ -1,6 +1,6 @@
 import React from 'react';
 //import Services from './Services';
-import App from '../App'; 
+import App from './App'; 
 
 const WrapperComponent = () => {
   return (
