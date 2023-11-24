@@ -1,4 +1,4 @@
-# CODE-CHALLENGE-PHASE2
+# BNB EXPLORER
 
 Is a React application that displays a list of international Bnbs for hire.
  NOVEMBER 24/2023
