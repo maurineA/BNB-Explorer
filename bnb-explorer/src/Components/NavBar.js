@@ -4,7 +4,24 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faHome, faBuilding, faClipboard, faComment } from '@fortawesome/free-solid-svg-icons';
 
 function NavBar() {
- 
+    const styles = {
+        background: 'grey',
+        padding: '20px',
+        display: 'flex',
+        alignItems: 'center',
+      };
+    
+      const linkStyles = {
+        margin: '0 15px',
+        textDecoration: 'none',
+        color: 'black',
+        display: 'flex',
+        alignItems: 'center',
+      };
+    
+      const iconStyles = {
+        marginRight: '8px',
+      };
 
   return (
     <div style={styles}>
