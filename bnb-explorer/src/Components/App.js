@@ -4,7 +4,7 @@ import { Route ,Routes } from 'react-router-dom'
 import Home from './Home'
 import Services from './Services'
 import BookingForm from './BookingForm'
-import PostForm from './PostForm'
+import PostingForm from './PostingForm'
 import Reviews from './Reviews'
 import Footer from './Footer'
 
@@ -17,7 +17,7 @@ function App() {
       <Route path="/services"element={<Services/>}  ></Route>
       <Route path='/home'element={<Home/>}></Route>
       <Route path= "/boking form"element={<BookingForm/>}></Route>
-      <Route path="/postForm"element={<PostForm/>}></Route>
+      <Route path="/postForm"element={<PostingForm/>}></Route>
       <Route path="/reviews" element={<Reviews/>}></Route>
           </Routes>
           <Footer />
