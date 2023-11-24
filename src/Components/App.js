@@ -8,12 +8,13 @@ import PostingForm from './PostingForm'
 import Reviews from './Reviews'
 import Footer from './Footer'
 
+
 function App() {
   return (
     <>
       < NavBar />
-      <Routes>
-        <Route path='/'element={<Home/>}></Route>
+      <Routes >
+        <Route path='*'element={<Home/>}></Route>
       <Route path="/services"element={<Services/>}  ></Route>
       <Route path='/home'element={<Home/>}></Route>
       <Route path= "/boking form"element={<BookingForm/>}></Route>
