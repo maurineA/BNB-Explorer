@@ -22,12 +22,12 @@ function Footer() {
 }
 
 const footerStyle = {
-  background: 'grey',
-  padding: '20px',
-  textAlign:'center'
-  
-  
-  
-};
+    background: 'grey',
+    padding: '20px',
+    textAlign:'center'
+    
+    
+    
+  };
 
 export default Footer;
