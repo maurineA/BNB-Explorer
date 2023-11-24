@@ -40,7 +40,7 @@ We serves as an inclusive platform connecting travelers with a rich array of acc
 
         </div>
       </section>
-      <div><p>We have a  <span onClick={navigateToList} style={{color:"blue"}}><em>list</em></span> of lavish BnBs. We allow users to  <span onClick={navigateToPost} style={{color:"blue"}}><em>post</em></span> your own  BnBs.However,all BnBs may not be there therefore you can use this <em>{link}</em> to search for more from our partners. 
+      <div><p>We have a  <span onClick={navigateToList} style={{color:"blue"}}><em>list</em></span> of lavish BnBs. We allow users to  <span onClick={navigateToPost} style={{color:"blue"}}><em>post</em></span> their own  BnBs.However,all BnBs may not be there therefore you can use this <em>{link}</em> to search for more from our partners. 
     Feel free to<span onClick={navigateToReviews}style={{color:"blue"}}> <em>review us</em></span> to help us improve.
    </p></div>
   
