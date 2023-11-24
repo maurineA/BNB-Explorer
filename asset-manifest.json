@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/BNB-Explorer/static/css/main.337aa4ee.css",
-    "main.js": "/BNB-Explorer/static/js/main.8e49660a.js",
+    "main.js": "/BNB-Explorer/static/js/main.d3b6c993.js",
     "static/js/787.c4870ee2.chunk.js": "/BNB-Explorer/static/js/787.c4870ee2.chunk.js",
     "index.html": "/BNB-Explorer/index.html",
     "main.337aa4ee.css.map": "/BNB-Explorer/static/css/main.337aa4ee.css.map",
-    "main.8e49660a.js.map": "/BNB-Explorer/static/js/main.8e49660a.js.map",
+    "main.d3b6c993.js.map": "/BNB-Explorer/static/js/main.d3b6c993.js.map",
     "787.c4870ee2.chunk.js.map": "/BNB-Explorer/static/js/787.c4870ee2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.337aa4ee.css",
-    "static/js/main.8e49660a.js"
+    "static/js/main.d3b6c993.js"
   ]
 }
