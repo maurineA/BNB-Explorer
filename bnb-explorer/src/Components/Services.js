@@ -26,7 +26,7 @@ const Services = () => {
 
   return (
     <div style={{ fontFamily: 'Arial, sans-serif', maxWidth: '800px', margin: '0 auto' }}>
-      <h1 style={{ textAlign: 'center' }}>Data from JSON Server</h1>
+      <h1 style={{ textAlign: 'center' }}>Featured Properties</h1>
       <SearchBar data={data} />
 
       <ul style={{ listStyle: 'none', padding: 0 }}>
